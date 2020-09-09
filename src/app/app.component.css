@@ -1,0 +1,10 @@
+.example-card {
+  max-width: 200px;
+  background-color: grey; 
+}
+.block{float: left;border: 2px solid;margin: 5px;font-family: monospace;width: 245px;background: cornflowerblue}
+
+    .name{font-size: 30px;font-weight: bold;color: navy;}
+    .update{background: greenyellow;border: transparent;padding: 7px;margin: 5px;border-radius: 4px;font-size: 15px;color: cornsilk;font-family: monospace;}
+
+    .delete{background: red;border: transparent;padding: 7px;margin: 5px;border-radius: 4px;font-size: 15px;color: cornsilk;font-family: monospace;}
